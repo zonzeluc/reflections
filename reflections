@@ -3,3 +3,7 @@ What are some situations when branches would be helpful in keeping your history 
 You may also want to commit your changes to the file. When you're ready to move on, click "Next" to hear a perspective from an experienced Git user.
 
 branches do not mess up master branch if I want to do a quick experiment
+
+How do the diagrams help you visualize the branch structure
+It shows the branches
+
