@@ -1,6 +1,8 @@
 add 1
 add 2
 
+change again in master
+
 what about changes in master
 this is easy-mode
 
